@@ -1,2 +1,2 @@
 # potion_rest
-A RestFull API on Django to Manage Potions
+A RestFull API made with Django to Manage Potions
